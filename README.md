@@ -1,3 +1,4 @@
 # shopmarket-flask
- Flask-based 
-e-commerce application 
+Flask-based 
+ 
+ E-commerce application 
